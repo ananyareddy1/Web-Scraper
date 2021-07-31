@@ -38,7 +38,6 @@ print("\n")
 
 
 #Getting most frequent words and their count
-
 words = re.findall('\w+', text1)
 print('Most frequently occurring words in the article: ')
 frequent_words = Counter(words).most_common(10)
