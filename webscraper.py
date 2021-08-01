@@ -6,9 +6,6 @@ from collections import Counter
 import urllib
 import re
 import nltk
-from nltk.corpus import stopwords
-
-
 
 
 #Paste url here
